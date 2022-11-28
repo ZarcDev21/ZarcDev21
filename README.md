@@ -17,6 +17,13 @@
 
 - ⚡ Fun fact **I don't know**
 
+UPTIME:
+Darvco Api
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/jqfb.svg)](https://betteruptime.com/?utm_source=status_badge)
+
+Dere Kitsune Bot
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/it7j.svg)](https://betteruptime.com/?utm_source=status_badge)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/moodalvin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moodalvin" height="30" width="40" /></a>
